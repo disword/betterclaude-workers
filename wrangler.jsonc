@@ -9,12 +9,8 @@
 	"compatibility_date": "2025-12-13",
 	"routes": [
 		{
-			"pattern": "<YOUR_DOMAIN>/*",
-			"zone_name": "<YOUR_ZONE>"
-		},
-		{
-			"pattern": "*.<YOUR_DOMAIN>/*",
-			"zone_name": "<YOUR_ZONE>"
+			"pattern": "claude.mysword.eu.org/*",
+			"zone_name": "claude"
 		}
 	],
 	"placement": {

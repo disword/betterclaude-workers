@@ -132,9 +132,10 @@ better_claude/
 The orphan detection algorithm:
 
 1. **Build tool_use index**: Scans all messages to find all `tool_use` blocks and their IDs
-2. **Find orphans**: Identifies `tool_result` blocks that reference non-existent `tool_use` IDs
-3. **Remove orphans**: Filters out orphaned `tool_result` blocks from messages
-4. **Clean empty messages**: Removes user messages that become empty after cleanup
+2. 
+3. **Find orphans**: Identifies `tool_result` blocks that reference non-existent `tool_use` IDs
+4. **Remove orphans**: Filters out orphaned `tool_result` blocks from messages
+5. **Clean empty messages**: Removes user messages that become empty after cleanup
 
 ## License
 

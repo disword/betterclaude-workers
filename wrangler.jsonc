@@ -10,7 +10,7 @@
 	"routes": [
 		{
 			"pattern": "claude.mysword.eu.org/*",
-			"zone_name": "claude"
+			"zone_name": "mysword.eu.org"
 		}
 	],
 	"placement": {

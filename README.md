@@ -28,7 +28,7 @@ BetterClaude automatically detects and removes these orphaned blocks, allowing t
 
 ### Architecture
 
-![BetterClaude Architecture](https://net-oss.akclau.de/static/akide/uPic/arch-20251224yFxg5N.png)
+![BetterClaude Architecture](static/architecture.png)
 
 ## Usage
 
